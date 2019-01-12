@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Builder Version</key>
-	<string>10603.3.8</string>
+	<string>14606.3.4</string>
 	<key>CFBundleDisplayName</key>
 	<string>arxiv-switcher</string>
 	<key>CFBundleIdentifier</key>
